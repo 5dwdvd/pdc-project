@@ -1,6 +1,9 @@
 # Zip File
 Modifications were made to the zip file:
-- All Simulink files without 
+- **CSTR_Bioreactor_2023_FeedForward.slx** is file with optimal control
+- Although its named "FeedForward", the optimal controller is P-only Cohen Coon
+  - The file is only called "FeedForward" since it has that implemented, with a switch block to turn it off
+- All Simulink files except CSTR_Bioreactor_2023_FeedForward.slx were deleted
 
 # GitHub
 - https://github.com/5dwdvd/pdc-project
